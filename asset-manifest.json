@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Portfolio/static/js/main.a8817f32.js",
+    "static/media/main1.gif": "/Portfolio/static/media/main1.3d9fd60d292c04446ef2.gif",
+    "static/media/Old_image.png": "/Portfolio/static/media/Old_image.1e4446a8e85dbe985f82.png",
+    "static/media/KESHAV1.png": "/Portfolio/static/media/KESHAV1.4c1f691a254bbe8f5d21.png",
+    "static/media/Keshav_Resume1.pdf": "/Portfolio/static/media/Keshav_Resume1.56a5c6a40ecc8b4413e2.pdf",
+    "static/media/New_image.png": "/Portfolio/static/media/New_image.060d30298052811978cf.png",
+    "index.html": "/Portfolio/index.html",
+    "main.a8817f32.js.map": "/Portfolio/static/js/main.a8817f32.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a8817f32.js"
+  ]
+}
